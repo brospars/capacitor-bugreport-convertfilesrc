@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-bug-convertfilesrc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
